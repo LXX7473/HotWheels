@@ -1,0 +1,9 @@
+ .DS Store
+node_modules/
+src/.umi/
+project/app_common/node_modules/
+project/app_container/node_modules/
+project/app_container/src/.umi/
+project/app_common/src/.umi/
+
+
